@@ -11,8 +11,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  document.getElementById("contact").addEventListener("click", function (e) {
-    e.preventDefault();
-    alert("Contact me on: sammittal2010@gmail.com");
-  });
+  // document.getElementById("contact").addEventListener("click", function (e) {
+  //   e.preventDefault();
+  //   alert("Contact me on: sammittal2010@gmail.com");
+  // });
 });
+
