@@ -189,7 +189,7 @@ main {
   margin-bottom: 20px;
 }
 
-.insta,
+/* .insta,
 .twitter,
 .youtube {
   display: flex;
@@ -204,7 +204,7 @@ main {
   height: 30px;
   width: 30px;
   margin-right: 10px;
-}
+} */
 
 /* Footer Section */
 footer {
@@ -314,10 +314,11 @@ footer {
     margin: 10px;
   }
 
-  .insta,
+  /* .insta,
   .twitter,
   .youtube {
     flex-direction: column;
     align-items: flex-start;
-  }
+  } */
 }
+
