@@ -46,7 +46,7 @@ nav ul li a:hover {
 
 /* Main Sections */
 main {
-  padding-top: 80px; /* Adjust for fixed header */
+  padding-top: 80px;
 }
 
 .firstSection {
@@ -178,33 +178,33 @@ main {
   border-radius: 15px;
 }
 
-/* Social Media Section */
-/* .social-media {
+ Social Media Section 
+.social-media {
   text-align: center;
   padding: 40px 20px;
-} */
+} 
 
-/* .h1-social-media {
+.h1-social-media {
   font-size: 2rem;
   margin-bottom: 20px;
-} */
+} 
 
-/* .insta,
+ .insta,
 .twitter,
 .youtube {
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 20px;
-} */
+} 
 
-/* .insta img,
+.insta img,
 .twitter img,
 .youtube img {
   height: 30px;
   width: 30px;
   margin-right: 10px;
-} */
+} 
 
 /* Footer Section */
 footer {
@@ -315,10 +315,10 @@ footer {
   }
 }
 
-  /* .insta,
+ .insta,
   .twitter,
   .youtube {
     flex-direction: column;
     align-items: flex-start;
   }
-} */
+} 
